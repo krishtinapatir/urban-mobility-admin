@@ -54,25 +54,15 @@ LogiTrack is a modern, full-featured logistics management platform designed for 
 - Node.js (v18 or later)
 - npm or yarn
 
-### Installation
+### How to live this website
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rustix69/LogiTrack.git
-   cd LogiTrack
-   ```
+cd .. 
+cd ADMIN
+File – ADMIN 
+npm run dev 
+cd server 
+npm run dev / server.js 
 
-2. Install dependencies:
-   ```bash
-   npm install --legacy-peer-deps
-   ```
-
-3. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## Project Structure
 
