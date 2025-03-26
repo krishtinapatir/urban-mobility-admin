@@ -57,10 +57,15 @@ LogiTrack is a modern, full-featured logistics management platform designed for 
 ### How to live this website
 
 cd .. 
+
 cd ADMIN
+
 File – ADMIN 
+
 npm run dev 
+
 cd server 
+
 npm run dev / server.js 
 
 
