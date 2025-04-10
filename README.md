@@ -137,7 +137,7 @@ We welcome contributions to LogiTrack! Please feel free to submit a Pull Request
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Deploy Link: urban-mobility-admin.vercel.app
+Deploy Link: https://urban-mobility-admin.vercel.app/
 
 ## Acknowledgments
 
